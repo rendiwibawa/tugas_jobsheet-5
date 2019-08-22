@@ -1,13 +1,13 @@
-# tugas_jobsheet-5
-# latihan soal-3 jobsheet5
-![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Latihan%20soal%203.png "latihan soal-3 jobsheet5")
-# latihan soal-4 jobsheet5
+# t̷̲̑̊͊̈̕ũ̷͓̝̭͔̤̃̀̉͗̈́̇g̶̢̝͈̉̿̓á̶̟̰̜͆̈͑͜͠s̴̡̬͕̺͇͕̆̃̀̎̄͠_̵̢̳̼̰͈̻̋̇̈́͐͑͂̓̂j̷̢̠͖͈͎̰̜̺͕̱͆̾̋̀̽̊͆̆̅͠o̶̩̣̞̥̫͔͌̊̋̂b̶̲̥̹̞̠̞͛̐͐͑̓̍̔̇͜s̸͍͘ḣ̵̽͜e̴͓̱͙̬̘͓̦͑͝ͅḛ̶̢͎̰̱̪̂̍t̵͓̟̉͊̂̉́̿̚͝͝-̵͙̯̪̼̱̮̣͈͔̻̋̐̑̀͗͂̋̓5̷͙̥̎̀̀
+# 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝕤𝕠𝕒𝕝-𝟛 𝕛𝕠𝕓𝕤𝕙𝕖𝕖𝕥𝟝
+![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Latihan%20soal%203.png)
+# 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝕤𝕠𝕒𝕝-𝟜 𝕛𝕠𝕓𝕤𝕙𝕖𝕖𝕥𝟝
 ![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Latihan%20soal%204.png)
-# latihan soal-7 jobsheet5
+# 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝕤𝕠𝕒𝕝-𝟟 𝕛𝕠𝕓𝕤𝕙𝕖𝕖𝕥𝟝
 ![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Latihan%20soal%207.png)
-# latihan soal-8 jobsheet5
+# 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝕤𝕠𝕒𝕝-𝟠 𝕛𝕠𝕓𝕤𝕙𝕖𝕖𝕥𝟝
 ![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Latihan%20soal%208.png)
-# Operator Aritmatika
+# 𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣 𝔸𝕣𝕚𝕥𝕞𝕒𝕥𝕚𝕜𝕒
 ![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/OperatorAritmatika.png)
-# Operator java
+# 𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣 𝕛𝕒𝕧𝕒
 ![Alt text](https://github.com/rendiwibawa/tugas_jobsheet-5/blob/master/Operatorjava.png)
